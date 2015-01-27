@@ -1,11 +1,11 @@
 # planck
 Simple python sample to compute planck spectrum in frequency space
 
-run from command line as
+run from python terminal as
 
     >> execfile("planck.py")
     
-or 
+or from the command line as
 
     python planck.py
     
